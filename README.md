@@ -45,7 +45,7 @@
 
 <h3 align="left">&nbsp;&nbsp;&nbsp;🔥   My Stats :</h3>
 </br>
-<div align="center">
+<div align="center" style="padding: 25">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ratchy-oak&theme=dracula" height="150" alt="stats"/>
   <img src="https://streak-stats.demolab.com?user=ratchy-oak&theme=dracula" height="150" alt="streak stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ratchy-oak&theme=dracula" height="150" alt="languages"/>
