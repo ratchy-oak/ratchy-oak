@@ -46,11 +46,17 @@
 <h3 align="left">&nbsp;&nbsp;&nbsp;🔥   My Stats :</h3>
 </br>
 <div align="center">
-  <table>
+  <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ratchy-oak&theme=dracula" height="150"/></td>
-      <td style="padding: 0 10px;"><img src="https://streak-stats.demolab.com?user=ratchy-oak&theme=dracula" height="150"/></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ratchy-oak&theme=dracula" height="150"/></td>
+      <td style="border: none;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ratchy-oak&theme=dracula" height="150"/>
+      </td>
+      <td style="padding: 0 10px; border: none;">
+        <img src="https://streak-stats.demolab.com?user=ratchy-oak&theme=dracula" height="150"/>
+      </td>
+      <td style="border: none;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ratchy-oak&theme=dracula" height="150"/>
+      </td>
     </tr>
   </table>
 </div>
