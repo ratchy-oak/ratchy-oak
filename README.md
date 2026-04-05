@@ -47,9 +47,6 @@
 </br>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ratchy-oak&theme=dracula" height="150" alt="stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ratchy-oak&theme=dracula" height="150" alt="languages"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=ratchy-oak&theme=dracula" height="150" alt="streak stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ratchy-oak&theme=dracula" height="150" alt="languages"/>
 </div>
