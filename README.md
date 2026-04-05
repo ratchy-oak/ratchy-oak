@@ -46,6 +46,10 @@
 <h3 align="left">&nbsp;&nbsp;&nbsp;🔥   My Stats :</h3>
 </br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ratchy-oak&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratchy-oak&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ratchy-oak&theme=dracula" height="150" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ratchy-oak&theme=dracula" height="150" alt="languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ratchy-oak&theme=dracula" height="150" alt="streak stats"/>
 </div>
