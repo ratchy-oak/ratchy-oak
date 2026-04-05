@@ -48,9 +48,11 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ratchy-oak&theme=dracula" height="150"/>
 
-  <img src="https://streak-stats.demolab.com?user=ratchy-oak&theme=dracula"
-       height="150"
-       style="margin: 0 12px;" />
+  <img width="20"/>
+
+  <img src="https://streak-stats.demolab.com?user=ratchy-oak&theme=dracula" height="150"/>
+
+  <img width="20"/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ratchy-oak&theme=dracula" height="150"/>
 </div>
